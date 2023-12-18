@@ -42,7 +42,7 @@ def generate_svg_tspan_block(ascii_text):
 
 if __name__ == "__main__":
     # Replace with the path to your image
-    image_path = "C:\\Users\\rschubert\\Downloads\\me.jpg"
+    image_path = {IMAGE PATH HERE}
 
     # Convert image to ASCII
     ascii_text = convert_to_ascii(image_path)
