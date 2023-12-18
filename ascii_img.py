@@ -1,6 +1,6 @@
 from PIL import Image
 
-def convert_to_ascii(image_path, new_width=115, new_height=60, step_size=2):
+def convert_to_ascii(image_path, new_width=175, new_height=100, step_size=3):
     # Load the image
     image = Image.open(image_path)
 
@@ -42,7 +42,7 @@ def generate_svg_tspan_block(ascii_text):
 
 if __name__ == "__main__":
     # Replace with the path to your image
-    image_path = {IMAGE PATH HERE}
+    image_path = {PATH}
 
     # Convert image to ASCII
     ascii_text = convert_to_ascii(image_path)
