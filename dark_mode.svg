@@ -8,7 +8,7 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="970px" height="530px" fill="#161b22" rx="15"/>
+<rect width="1100px" height="550px" fill="#161b22" rx="15"/>
 
 
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
@@ -65,7 +65,7 @@ text, tspan {white-space: pre;}
 <tspan x="540" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Anything I can host a server on</tspan>
 <tspan x="540" y="330" class="keyColor">Contact</tspan>:
 <tspan x="540" y="350">——————</tspan>
-<tspan x="540" y="500" class="keyColor">Email</tspan>: <tspan class="valueColor">ryan@stomale.cc</tspan>
+<tspan x="540" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">ryan@stomale.cc</tspan>
 <tspan x="540" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">rpschubert</tspan>
 <tspan x="540" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">hextball</tspan>
 <tspan x="540" y="450" class="keyColor">GitHub Stats</tspan>:
