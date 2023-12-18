@@ -61,7 +61,7 @@ text, tspan {white-space: pre;}
 <tspan x="540" y="270" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Javascript, SQL, C#</tspan>
 <tspan x="540" y="290" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, YAML, Markdown</tspan>
 <tspan x="540" y="310" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Italian (tipo)</tspan>
-<tspan x="540" y="350" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Docker</tspan>
+<tspan x="540" y="350" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Docker + Self-Hostable Services, First Person Shooters, Roguelites</tspan>
 <tspan x="540" y="370" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Anything I can get my hands on</tspan>
 <tspan x="540" y="410" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">IRL</tspan>: <tspan class="valueColor">Philly Sports, Great Food, Good Whiskey</tspan>
 <tspan x="540" y="430" class="keyColor">Contact</tspan>:
