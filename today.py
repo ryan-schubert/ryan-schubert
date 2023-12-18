@@ -479,14 +479,14 @@ def svg_overwrite(
     f = open(filename, mode="w", encoding="utf-8")
     tspan = svg.getElementsByTagName("tspan")
     tspan[40].firstChild.data = age_data
-    tspan[75].firstChild.data = repo_data
-    tspan[77].firstChild.data = contrib_data
-    tspan[79].firstChild.data = commit_data
-    tspan[81].firstChild.data = star_data
-    tspan[83].firstChild.data = follower_data
-    tspan[85].firstChild.data = loc_data[2]
-    tspan[86].firstChild.data = loc_data[0] + "++"
-    tspan[87].firstChild.data = loc_data[1] + "--"
+    tspan[77].firstChild.data = repo_data
+    tspan[79].firstChild.data = contrib_data
+    tspan[81].firstChild.data = commit_data
+    tspan[83].firstChild.data = star_data
+    tspan[85].firstChild.data = follower_data
+    tspan[87].firstChild.data = loc_data[2]
+    tspan[88].firstChild.data = loc_data[0] + "++"
+    tspan[89].firstChild.data = loc_data[1] + "--"
     f.write(svg.toxml("utf-8").decode("utf-8"))
     f.close()
 
