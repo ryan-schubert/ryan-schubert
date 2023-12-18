@@ -50,28 +50,28 @@ text, tspan {white-space: pre;}
 </text>
 
 
-<text x="570" y="30" fill="#c9d1d9">
-<tspan x="570" y="30">ryan@schubert</tspan>
-<tspan x="570" y="50">——————</tspan>
-<tspan x="570" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, iOS, Debian</tspan>
-<tspan x="570" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">28 years, 10 months, 17 days</tspan>
-<tspan x="570" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Elizabethtown College</tspan><tspan class="commentColor"> #Etown</tspan>
-<tspan x="570" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Information Systems</tspan>
-<tspan x="570" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, SSMS</tspan>
-<tspan x="570" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Javascript, SQL, C#</tspan>
-<tspan x="570" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, YAML, Markdown</tspan>
-<tspan x="570" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Italian (tipo)</tspan>
-<tspan x="570" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Docker</tspan>
-<tspan x="570" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Anything I can host a server on</tspan>
-<tspan x="570" y="330" class="keyColor">Contact</tspan>:
-<tspan x="570" y="350">——————</tspan>
-<tspan x="570" y="500" class="keyColor">Email</tspan>: <tspan class="valueColor">ryan@stomale.cc</tspan>
-<tspan x="570" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">rpschubert</tspan>
-<tspan x="570" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">hextball</tspan>
-<tspan x="570" y="450" class="keyColor">GitHub Stats</tspan>:
-<tspan x="570" y="470">——————</tspan>
-<tspan x="570" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">84</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">121</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">1,943  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">183</tspan>
-<tspan x="570" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">53  </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">434,280</tspan> (<tspan class="addColor">505,347++</tspan>, <tspan class="delColor">71,067--</tspan>)
+<text x="525" y="30" fill="#c9d1d9">
+<tspan x="525" y="30">ryan@schubert</tspan>
+<tspan x="525" y="50">——————</tspan>
+<tspan x="525" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, iOS, Debian</tspan>
+<tspan x="525" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">28 years, 10 months, 17 days</tspan>
+<tspan x="525" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Elizabethtown College</tspan><tspan class="commentColor"> #Etown</tspan>
+<tspan x="525" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Information Systems</tspan>
+<tspan x="525" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, SSMS</tspan>
+<tspan x="525" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Javascript, SQL, C#</tspan>
+<tspan x="525" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, YAML, Markdown</tspan>
+<tspan x="525" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Italian (tipo)</tspan>
+<tspan x="525" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Docker</tspan>
+<tspan x="525" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Anything I can host a server on</tspan>
+<tspan x="525" y="330" class="keyColor">Contact</tspan>:
+<tspan x="525" y="350">——————</tspan>
+<tspan x="525" y="500" class="keyColor">Email</tspan>: <tspan class="valueColor">ryan@stomale.cc</tspan>
+<tspan x="525" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">rpschubert</tspan>
+<tspan x="525" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">hextball</tspan>
+<tspan x="525" y="450" class="keyColor">GitHub Stats</tspan>:
+<tspan x="525" y="470">——————</tspan>
+<tspan x="525" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">84</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">121</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">1,943  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">183</tspan>
+<tspan x="525" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">53  </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">434,280</tspan> (<tspan class="addColor">505,347++</tspan>, <tspan class="delColor">71,067--</tspan>)
 </text>
 
 </svg>
