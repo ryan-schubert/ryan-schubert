@@ -54,7 +54,7 @@ text, tspan {white-space: pre;}
 <tspan x="540" y="110">ryan@schubert</tspan>
 <tspan x="540" y="130">——————</tspan>
 <tspan x="540" y="150" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, iOS, Debian</tspan>
-<tspan x="540" y="170" class="keyColor">Uptime</tspan>: <tspan class="valueColor">28 years, 11 months, 11 days</tspan>
+<tspan x="540" y="170" class="keyColor">Uptime</tspan>: <tspan class="valueColor">28 years, 11 months, 12 days</tspan>
 <tspan x="540" y="190" class="keyColor">Host</tspan>: <tspan class="valueColor">Elizabethtown College</tspan><tspan class="commentColor"> #Etown</tspan>
 <tspan x="540" y="210" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Information Systems</tspan>
 <tspan x="540" y="230" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, SSMS</tspan>
